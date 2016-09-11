@@ -1,9 +1,8 @@
 whatever
-<<<<<<< HEAD
 this is gonna go wrong...
-=======
+
 Change different
 
 Whats happening?
->>>>>>> 7ce6a2a677cd76c4c0a5ee4e39439108142b4fc5
+
 Hello, Scott is messing with your file
